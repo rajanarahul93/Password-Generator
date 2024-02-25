@@ -30,9 +30,6 @@ To use the password generator, simply adjust the length and requirements of your
 4. Your generated password will appear in the password field and be copied to the clipboard automatically.
 -->
 
-### Demo
-A live demo of this project is available at 
-
 ### Contributing
 If you have any suggestions or issues, feel free to open a pull request or issue on the GitHub repository.
 
